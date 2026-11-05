@@ -1,0 +1,112 @@
+{
+  "product": "Wheelhold \u2014 A Squeekchain Colony",
+  "upstreamCommit": "39dff48018271dd54bacae90ae1eb1abaa76a4ef",
+  "upstreamTree": "4efc9496b012ada8466ca9ae3a8e253257ab56de",
+  "publication": "pending",
+  "existingSite": "https://squeek-colony-the-wheel-writes-o.imd.site",
+  "tests": {
+    "passed": 14,
+    "failed": 0,
+    "skipped": 0
+  },
+  "build": "passed",
+  "upstreamFilesVerified": 14,
+  "runtimeJavaScriptMatchesPristineBuild": true,
+  "gameplayCSSMatchesPristineBuild": true,
+  "typecheck": {
+    "status": "failed",
+    "diagnostics": 9
+  },
+  "taste": {
+    "passed": 8,
+    "total": 16
+  },
+  "exportBytes": 303153,
+  "files": [
+    {
+      "path": "dist/assets/aFTR7PB1QTsUX8KYvumzEY2tbZX9-BtRyHRi6.woff2",
+      "bytes": 9616,
+      "sha256": "8711f938c3f04f91e35ae64ebc7f2eecd800d2ae1c3542f6c837c758a50422f5"
+    },
+    {
+      "path": "dist/assets/aFTR7PB1QTsUX8KYvumzEYOtbQ-DRMDZjhP.woff2",
+      "bytes": 14988,
+      "sha256": "9964608a849396bd00c4bfd7034afe03486469dcf20b4f6b8cbdfdd310369951"
+    },
+    {
+      "path": "dist/assets/aFTU7PB1QTsUX8KYthSQBLyM-C2zvOubV.woff2",
+      "bytes": 9552,
+      "sha256": "a52e19ebe0398c9c0f8fa28a0c5e9a6bc324f35d9f0881c9aa407d10af447175"
+    },
+    {
+      "path": "dist/assets/aFTU7PB1QTsUX8KYthqQBA-4GdczIuU.woff2",
+      "bytes": 14820,
+      "sha256": "e1896b13b2b1bb112fac2f9571bd6c40e118746e77a4511edbf43fbb41bf3e1e"
+    },
+    {
+      "path": "dist/assets/index-B10Toh98.css",
+      "bytes": 31035,
+      "sha256": "0008f5aa2399ecc852ada8c87476d8cc31e3e34f87cd104353b3a407a912509d"
+    },
+    {
+      "path": "dist/assets/index-XTbW60-7.js",
+      "bytes": 20065,
+      "sha256": "8d70d884cc4bd752108d0ba2d64d56643ffd5dabbc653261193b3661ddd8e7d6"
+    },
+    {
+      "path": "dist/assets/xn7gYHE41ni1AdIRggOxSuXd-DfGDO6bq.woff2",
+      "bytes": 14352,
+      "sha256": "447c49583b1b735cc6f566151db1d24354cec41076c55dd98455cfbde9e806c1"
+    },
+    {
+      "path": "dist/assets/xn7gYHE41ni1AdIRggSxSuXd-DYTlBpHj.woff2",
+      "bytes": 9268,
+      "sha256": "e507c109c31789b33994646b457ee288639324516357250607c9b1398186e069"
+    },
+    {
+      "path": "dist/assets/xn7gYHE41ni1AdIRggexSg-B6Sd7_ZV.woff2",
+      "bytes": 24532,
+      "sha256": "8c2def024c1bf31aacf3624ae3c4d701269b4ec3dc765c04830839f0d36b2d9e"
+    },
+    {
+      "path": "dist/assets/xn7gYHE41ni1AdIRggixSuXd-CYN2vEce.woff2",
+      "bytes": 8388,
+      "sha256": "dbf64d973b3987844df30992c93f47d24ac8935ee8c9b1e320942aeb1b367703"
+    },
+    {
+      "path": "dist/assets/xn7gYHE41ni1AdIRggmxSuXd-C-cYlMBm.woff2",
+      "bytes": 15160,
+      "sha256": "2f7335119075b2079f1d882530bbc18728461612bf90743203d73a74a48f4d9b"
+    },
+    {
+      "path": "dist/build-info.json",
+      "bytes": 564,
+      "sha256": "1d6b7c2a6c92fef675e104ef139424d42785e77fcc2e870dffc7bfd49c1603e4"
+    },
+    {
+      "path": "dist/favicon.svg",
+      "bytes": 386,
+      "sha256": "91302ec0fb3190a25ea35b41b4d8551e463497186286ee7ab07615853483245b"
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 1150,
+      "sha256": "e3ae24a98e6957c5a751bfa0f4ea8a160fdf5c99e0d64d7e2d0e9cf710f1193e"
+    },
+    {
+      "path": "dist/licenses/DM-Mono-OFL.txt",
+      "bytes": 4484,
+      "sha256": "2bada5ea45c3c63b7f1ea1f88ce9672c9e4f0c42b2c3b7378949084fe55a3066"
+    },
+    {
+      "path": "dist/licenses/Manrope-OFL.txt",
+      "bytes": 4387,
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b"
+    },
+    {
+      "path": "dist/og-image.png",
+      "bytes": 120406,
+      "sha256": "01649ab98522cb93faf19058c4b9b5209150be6cc39598f9e23357dd4d29d17d"
+    }
+  ]
+}

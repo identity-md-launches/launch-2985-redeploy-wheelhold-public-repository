@@ -1,0 +1,8 @@
+{
+  "product": "Wheelhold \u2014 A Squeekchain Colony",
+  "upstreamRepository": "https://github.com/Maje53/wheelhold",
+  "upstreamCommit": "39dff48018271dd54bacae90ae1eb1abaa76a4ef",
+  "upstreamTree": "4efc9496b012ada8466ca9ae3a8e253257ab56de",
+  "sourceIntegrity": "All upstream application, test, manifest, lockfile, HTML and stylesheet bytes are preserved in web/.",
+  "packaging": "web/vite.config.js uses relative asset paths, local copies of the original fonts, and the requested title/share metadata. All files listed here are unmodified upstream bytes."
+}

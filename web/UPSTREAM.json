@@ -1,0 +1,98 @@
+{
+  "repository": "https://github.com/Maje53/wheelhold",
+  "commit": "39dff48018271dd54bacae90ae1eb1abaa76a4ef",
+  "tree": "4efc9496b012ada8466ca9ae3a8e253257ab56de",
+  "files": [
+    {
+      "path": "README.md",
+      "gitBlob": "1cd40544b4bd268740bece2cfda13691919b0abc",
+      "sha256": "f10c86bdc9755037f6c353f72703748889c2e00358e0af30117c031858aabc70",
+      "bytes": 1774
+    },
+    {
+      "path": "SECURITY.md",
+      "gitBlob": "92e2a05fb9c662aee461bd0b06bfe5f467ff8b87",
+      "sha256": "2b8940947f430cedc49f48a26ab8417eb652fb44c0a78070b784e07eb135d9a4",
+      "bytes": 1033
+    },
+    {
+      "path": "SUBMISSION.md",
+      "gitBlob": "35640cd1fc2b50177f2b6fe6e94f3488738c6cb6",
+      "sha256": "c8e58330b6ef73d9ab3600f89fd9d2ee0de81702974cfb7488420b9e0cf9dffb",
+      "bytes": 1894
+    },
+    {
+      "path": "index.html",
+      "gitBlob": "ecdd6c2e24065deb44b9908a86e400b3b8c136c0",
+      "sha256": "3ebe45f2e8f63c56e3ed2d8b0f93ec1f316ddcc0168a7962f564fb9946c61cbb",
+      "bytes": 770
+    },
+    {
+      "path": "package-lock.json",
+      "gitBlob": "65b570ad906f442b7946e6f633e999287c473601",
+      "sha256": "0ab436012f889031d05fc51165f5ccc71e4599e47fe4886d80e06868a71e2322",
+      "bytes": 35234
+    },
+    {
+      "path": "package.json",
+      "gitBlob": "f8e6fc6b938e47549356004f02bd637e206a3138",
+      "sha256": "5ba764f40a821e6be19561b96749bb5b5f6d6cee577f7c978b711e12b622ed81",
+      "bytes": 335
+    },
+    {
+      "path": "public/favicon.svg",
+      "gitBlob": "e162b597eb12d265a9e3300094a30a7572485966",
+      "sha256": "91302ec0fb3190a25ea35b41b4d8551e463497186286ee7ab07615853483245b",
+      "bytes": 386
+    },
+    {
+      "path": "src/api.js",
+      "gitBlob": "16f02658edb03866db8018caa44c64140f95dca9",
+      "sha256": "479275fb1bb556eec614d5fe3b447227f5494274b8e5a5e3200b691624d102be",
+      "bytes": 1154
+    },
+    {
+      "path": "src/api.test.js",
+      "gitBlob": "711cf22ebb851e02caab4b5a92e64e2902e11093",
+      "sha256": "0514d76b05f2cc555259dba12c8afc7917e930748d16dcf5a58af327a56d86e4",
+      "bytes": 541
+    },
+    {
+      "path": "src/game.js",
+      "gitBlob": "2057f3c4792ed107bcc3b4cae067f717da8768fb",
+      "sha256": "5ff79501eb2dbef986b7ec3b6f042522da060279434a2898b8af82f2e0fada45",
+      "bytes": 14654
+    },
+    {
+      "path": "src/game.test.js",
+      "gitBlob": "2872a31768c61b1e677a53b15e3a6178a2bd2a05",
+      "sha256": "0c5e484828cb81f2c5dbd68469a00376edf6a19b8c764303620c664125a022d5",
+      "bytes": 11595
+    },
+    {
+      "path": "src/main.js",
+      "gitBlob": "bfc2c0c9393208032ab789c361a4cd57e198c0cc",
+      "sha256": "41524864da70dc133f814f979f13f742ef05afab41d5a91cdcdceb2910dc0c18",
+      "bytes": 12372
+    },
+    {
+      "path": "src/style.css",
+      "gitBlob": "5cb9bc9a3685492efba7190154b8c753e386b4a6",
+      "sha256": "7c4abaef169711615341a89b021874611cb073999983cdc91568b9c677202c53",
+      "bytes": 9581
+    },
+    {
+      "path": "vercel.json",
+      "gitBlob": "08c8897152b9c3b55a7667f5d279f444cfff042e",
+      "sha256": "4f50fd8dafbcbf0e5cbd860b7d8809d1c23c9a3a470b6e94904b29fd090d61fc",
+      "bytes": 665
+    }
+  ],
+  "omittedUpstreamPaths": [
+    {
+      "path": ".gitignore",
+      "reason": "Use the unchanged workspace ignore rules; export is repo-root dist/."
+    }
+  ],
+  "packaging": "web/vite.config.js uses relative asset paths, local copies of the original fonts, and the requested title/share metadata. All files listed here are unmodified upstream bytes."
+}

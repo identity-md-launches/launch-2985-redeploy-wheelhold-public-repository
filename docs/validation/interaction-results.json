@@ -1,0 +1,249 @@
+{
+  "timestamp": "2026-11-05T02:26:26.162Z",
+  "viewports": [
+    {
+      "width": 320,
+      "scrollWidth": 320,
+      "firstActionY": 1507.125,
+      "mainActionY": 2025.25,
+      "footerVisible": true,
+      "fonts": [
+        {
+          "family": "DM Mono",
+          "weight": "400"
+        },
+        {
+          "family": "DM Mono",
+          "weight": "500"
+        },
+        {
+          "family": "Manrope",
+          "weight": "400"
+        },
+        {
+          "family": "Manrope",
+          "weight": "800"
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "firstActionY": 1418.6875,
+      "mainActionY": 1910.46875,
+      "footerVisible": true,
+      "fonts": [
+        {
+          "family": "DM Mono",
+          "weight": "400"
+        },
+        {
+          "family": "DM Mono",
+          "weight": "500"
+        },
+        {
+          "family": "Manrope",
+          "weight": "400"
+        },
+        {
+          "family": "Manrope",
+          "weight": "800"
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 800,
+      "scrollWidth": 800,
+      "firstActionY": 1385.3125,
+      "mainActionY": 1868.3125,
+      "footerVisible": true,
+      "fonts": [
+        {
+          "family": "DM Mono",
+          "weight": "400"
+        },
+        {
+          "family": "DM Mono",
+          "weight": "500"
+        },
+        {
+          "family": "Manrope",
+          "weight": "400"
+        },
+        {
+          "family": "Manrope",
+          "weight": "800"
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 801,
+      "scrollWidth": 801,
+      "firstActionY": 1012.09375,
+      "mainActionY": 1318.828125,
+      "footerVisible": true,
+      "fonts": [
+        {
+          "family": "DM Mono",
+          "weight": "400"
+        },
+        {
+          "family": "DM Mono",
+          "weight": "500"
+        },
+        {
+          "family": "Manrope",
+          "weight": "400"
+        },
+        {
+          "family": "Manrope",
+          "weight": "800"
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1024,
+      "scrollWidth": 1024,
+      "firstActionY": 1028.53125,
+      "mainActionY": 1289.09375,
+      "footerVisible": true,
+      "fonts": [
+        {
+          "family": "DM Mono",
+          "weight": "400"
+        },
+        {
+          "family": "DM Mono",
+          "weight": "500"
+        },
+        {
+          "family": "Manrope",
+          "weight": "400"
+        },
+        {
+          "family": "Manrope",
+          "weight": "800"
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "firstActionY": 1058.8125,
+      "mainActionY": 1310.59375,
+      "footerVisible": true,
+      "fonts": [
+        {
+          "family": "DM Mono",
+          "weight": "400"
+        },
+        {
+          "family": "DM Mono",
+          "weight": "500"
+        },
+        {
+          "family": "Manrope",
+          "weight": "400"
+        },
+        {
+          "family": "Manrope",
+          "weight": "800"
+        }
+      ],
+      "passed": true
+    }
+  ],
+  "interactions": [
+    {
+      "name": "product metadata and visible footer IMD job link",
+      "passed": true
+    },
+    {
+      "name": "responsive export at 320, 390, 800, 801, 1024 and 1440; local fonts load",
+      "passed": true
+    },
+    {
+      "name": "all four choices work by pointer; Forage works by keyboard; selection persists",
+      "passed": true
+    },
+    {
+      "name": "saved action survives reload",
+      "passed": true
+    },
+    {
+      "name": "guest wallet feedback without an installed wallet",
+      "passed": true
+    },
+    {
+      "name": "skip link keyboard navigation",
+      "passed": true
+    },
+    {
+      "name": "public settlement disabled cannot lock or award resources",
+      "passed": true,
+      "testData": "unchanged public response"
+    },
+    {
+      "name": "stale hardware cannot lock or award resources",
+      "passed": true,
+      "testData": "negative test only; not included in export"
+    },
+    {
+      "name": "unverified provenance cannot lock or award resources",
+      "passed": true,
+      "testData": "negative test only; not included in export"
+    },
+    {
+      "name": "API unavailable cannot lock or award resources",
+      "passed": true,
+      "testData": "negative test only; not included in export"
+    },
+    {
+      "name": "1200\u00d7630 local share image captured from original habitat artwork; no telemetry",
+      "passed": true
+    }
+  ],
+  "limitations": [
+    "Pinned upstream can retain LIVE WHEELY9000 after telemetry expires until the next render/15-second refresh. Lock handler still rechecks time and settlement readiness.",
+    "WebKit check not completed: bundled WebKit browser unavailable."
+  ],
+  "browserErrors": [],
+  "requestFailures": [
+    {
+      "url": "https://api.squeekchain.com/v1/status",
+      "error": "net::ERR_EMPTY_RESPONSE"
+    },
+    {
+      "url": "https://api.squeekchain.com/v1/core",
+      "error": "net::ERR_EMPTY_RESPONSE"
+    },
+    {
+      "url": "https://api.squeekchain.com/v1/status",
+      "error": "net::ERR_EMPTY_RESPONSE"
+    },
+    {
+      "url": "https://api.squeekchain.com/v1/core",
+      "error": "net::ERR_EMPTY_RESPONSE"
+    }
+  ],
+  "nativeAPIState": {
+    "label": "TRAINING MODE",
+    "notice": "TRAINING SIMULATION \u2014 No rewards or live round resolution. Live API: Failed to fetch. Simulated telemetry is never presented as chain data."
+  },
+  "publicSnapshot": {
+    "retrievedAt": "2026-11-05T02:26:27.716Z",
+    "observedAt": "2026-11-05T02:26:06.215Z",
+    "settlementEnabled": false,
+    "state": "disabled"
+  },
+  "expiryBetweenRefreshes": {
+    "beforeExpiry": "LIVE WHEELY9000",
+    "afterExpiry": "LIVE WHEELY9000",
+    "passed": false
+  }
+}

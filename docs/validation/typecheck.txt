@@ -1,0 +1,9 @@
+web/src/api.js(4,38): error TS2339: Property 'signal' does not exist on type '{}'.
+web/src/api.js(13,11): error TS2339: Property 'retryAfter' does not exist on type 'Error'.
+web/src/main.js(40,73): error TS2339: Property 'dataset' does not exist on type 'Element'.
+web/src/main.js(99,63): error TS2339: Property 'onclick' does not exist on type 'Element'.
+web/src/main.js(99,106): error TS2339: Property 'dataset' does not exist on type 'Element'.
+web/src/main.js(100,37): error TS2339: Property 'onclick' does not exist on type 'Element'.
+web/src/main.js(113,37): error TS2339: Property 'onclick' does not exist on type 'Element'.
+web/src/main.js(114,17): error TS2339: Property 'ethereum' does not exist on type 'Window & typeof globalThis'.
+web/src/main.js(116,38): error TS2339: Property 'ethereum' does not exist on type 'Window & typeof globalThis'.
